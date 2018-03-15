@@ -1,0 +1,69 @@
+---   ROUND 1   ---
+Virginia
+Creighton
+Kentucky
+Buffalo
+Miami(Fla)
+Tennessee
+Texas
+Cincinnati
+Xavier
+Florida_St
+Ohio_St
+Gonzaga
+Houston
+Michigan
+Texas_A&M
+N_Carolina
+Villanova
+Alabama
+W_Virginia
+Wichita_St
+Florida
+Texas_Tech
+Arkansas
+Purdue
+Kansas
+NC_State
+Clemson
+Charleston
+ASU/SYR
+Bucknell
+Rhode_Island
+Duke
+---   ROUND 2   ---
+Virginia
+Kentucky
+Tennessee
+Cincinnati
+Xavier
+Gonzaga
+Michigan
+N_Carolina
+Villanova
+W_Virginia
+Florida
+Purdue
+Kansas
+Clemson
+ASU/SYR
+Duke
+---   ROUND 3   ---
+Virginia
+Cincinnati
+Gonzaga
+Michigan
+Villanova
+Florida
+Kansas
+ASU/SYR
+---   ROUND 4   ---
+Virginia
+Michigan
+Villanova
+Kansas
+---   ROUND 5   ---
+Virginia
+Kansas
+---   ROUND 6   ---
+Kansas
