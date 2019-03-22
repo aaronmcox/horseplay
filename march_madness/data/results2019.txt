@@ -1,0 +1,70 @@
+---   ROUND 1   ---
+Duke
+VCU
+Liberty
+Saint_Louis
+Temple
+LSU
+Minnesota
+Michigan_State
+Gonzaga
+Syracuse
+Murray_St
+Florida_St
+Buffalo
+Texas_Tech
+Nevada
+Michigan
+Virginia
+Ole_Miss
+Oregon
+Kansas_St
+Villanova
+Purdue
+cininnati
+Tennessee
+North_Carolina
+Utah_State
+Auburn
+Kansas
+Ohio_State
+Houston
+Wofford
+Kentucky
+---   ROUND 2   ---
+Duke
+Liberty
+LSU
+Michigan_State
+Gonzaga
+Murray_St
+Texas_Tech
+Nevada
+Virginia
+Oregon
+Purdue
+Tennessee
+North_Carolina
+Auburn
+Houston
+Kentucky
+---   ROUND 3   ---
+Duke
+LSU
+Gonzaga
+Nevada
+Virginia
+Tennessee
+North_Carolina
+Houston
+---   ROUND 4   ---
+Duke
+Nevada
+Virginia
+Houston
+---   ROUND 5   ---
+Duke
+Virginia
+---   ROUND 6   ---
+Duke
+
